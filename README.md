@@ -1,4 +1,4 @@
-# Machine-Learning-Algorithms
+# Machine Learning Algorithms
 
 A curated list of all (almost) machine learning and deep learning algorithms grouped by category. This repository is meant to help understand the various machine learning algorithms (Inspired by `awesome-machine-learning`). You can star this repo for future reference :)
 

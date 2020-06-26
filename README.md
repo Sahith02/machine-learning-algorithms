@@ -1,6 +1,5 @@
 # Machine Learning Algorithms 🚀
 ![Maintenance](https://img.shields.io/maintenance/yes/2020)
-![GitHub stars](https://img.shields.io/github/stars/Sahith02/machine-learning-algorithms)
 ![GitHub issues](https://img.shields.io/github/issues-raw/Sahith02/machine-learning-algorithms)
 
 A curated list of all (almost) machine learning and deep learning algorithms grouped by category. This repository is meant to help understand the various machine learning algorithms (Inspired by `awesome-machine-learning`). You can star this repo for future reference :)
